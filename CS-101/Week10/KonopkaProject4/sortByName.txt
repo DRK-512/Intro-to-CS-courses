@@ -1,0 +1,132 @@
+
+Person Database
+Darek Konopka
+All last names in ascending order
+
+Staff
+	First name: Maria
+	Last name: Allen
+	e-mail address: mallen@kettering.edu
+	Office: 123 Main Building
+	Hiring Year: 2016
+	Title: Registrar
+
+Undergraduate Student
+	First name: John
+	Last name: Doe
+	e-mail address: jdoe@kettering.edu
+	Student ID: 123456789
+	GPA: 3.25
+	Status: Sophomore
+
+Faculty
+	First name: Johnny
+	Last name: Dough
+	e-mail address: jdough@kettering.edu
+	Office: 101 Mott Building
+	Hiring Year: 2002
+	Rank: full professor
+
+Graduate Student
+	First name: Jack
+	Last name: Fly
+	e-mail address: jfly@kettering.edu
+	Student ID: The ID is out of the range
+	GPA: 3.99
+	Level: Master
+
+Staff
+	First name: Link
+	Last name: Hyrule
+	e-mail address: lhyrule@kettering.edu
+	Office: 322 Academic Building
+	Hiring Year: 1999
+	Title: Technician
+
+Staff
+	First name: Abby
+	Last name: Kaiser
+	e-mail address: akaiser@kettering.edu
+	Office: 321 Main Building
+	Hiring Year: 1980
+	Title: ASC Employee
+
+Undergraduate Student
+	First name: Darek
+	Last name: Konopka
+	e-mail address: kono6886@kettering.edu
+	Student ID: 702036886
+	GPA: 3.7
+	Status: Junior
+
+Graduate Student
+	First name: Bob
+	Last name: Looper
+	e-mail address: blooper@kettering.edu
+	Student ID: 120938459
+	GPA: 3.12
+	Level: Doctorate
+
+Faculty
+	First name: Patritia
+	Last name: Malasc
+	e-mail address: pmalasc@kettering.edu
+	Office: 101 Mott Building
+	Hiring Year: 1986
+	Rank: assistant professor
+
+Staff
+	First name: Fred
+	Last name: Murcury
+	e-mail address: fmurcury@kettering.edu
+	Office: 101 Mott Building
+	Hiring Year: This person is our of the 1980-2020 range
+	Title: Janitor
+
+Faculty
+	First name: James
+	Last name: Neal
+	e-mail address: jneal@kettering.edu
+	Office: 321 Main Building
+	Hiring Year: 2005
+	Rank: associate professor
+
+Graduate Student
+	First name: Ella
+	Last name: Pettit
+	e-mail address: epettit@kettering.edu
+	Student ID: 987654321
+	GPA: 3.3
+	Level: Master
+
+Faculty
+	First name: Peach
+	Last name: Plummer
+	e-mail address: pplumer@kettering.edu
+	Office: 322 Academic Building
+	Hiring Year: 2010
+	Rank: The input is invalid
+
+Graduate Student
+	First name: Peter
+	Last name: Shuck
+	e-mail address: pshuck@kettering.edu
+	Student ID: 105839576
+	GPA: 2.77
+	Level: input was not valid
+
+Undergraduate Student
+	First name: Mike
+	Last name: Smith
+	e-mail address: msmtih@kettering.edu
+	Student ID: 702039164
+	GPA: The GPA was out of range
+	Status: Freshman
+
+Undergraduate Student
+	First name: Ron
+	Last name: Swanson
+	e-mail address: Rswan@kettering.edu
+	Student ID: 987245379
+	GPA: 1.6
+	Status: Junior

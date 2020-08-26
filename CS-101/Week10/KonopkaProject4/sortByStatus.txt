@@ -1,0 +1,36 @@
+
+Person Database
+Darek Konopka
+Undergraduate Students sorted by class standing in ascending order
+
+Undergraduate Student
+	First name: Mike
+	Last name: Smith
+	e-mail address: msmtih@kettering.edu
+	Student ID: 702039164
+	GPA: The GPA was out of range
+	Status: Freshman
+
+Undergraduate Student
+	First name: John
+	Last name: Doe
+	e-mail address: jdoe@kettering.edu
+	Student ID: 123456789
+	GPA: 3.25
+	Status: Sophomore
+
+Undergraduate Student
+	First name: Darek
+	Last name: Konopka
+	e-mail address: kono6886@kettering.edu
+	Student ID: 702036886
+	GPA: 3.7
+	Status: Junior
+
+Undergraduate Student
+	First name: Ron
+	Last name: Swanson
+	e-mail address: Rswan@kettering.edu
+	Student ID: 987245379
+	GPA: 1.6
+	Status: Junior

@@ -1,0 +1,16 @@
+U#John#Doe#jdoe@kettering.edu#123456789#3.25#2
+S#Maria#Allen#mallen@kettering.edu#123 Main Building#2016#Registrar
+G#Ella#Pettit#epettit@kettering.edu#987654321#3.30#m
+F#James#Neal#jneal@kettering.edu#321 Main Building#2005#c
+U#Darek#Konopka#kono6886@kettering.edu#702036886#3.7#3
+U#Ron#Swanson#Rswan@kettering.edu#987245379#1.6#3
+G#Bob#Looper#blooper@kettering.edu#120938459#3.12#d
+S#Abby#Kaiser#akaiser@kettering.edu#321 Main Building#1980#ASC Employee
+S#Fred#Murcury#fmurcury@kettering.edu#101 Mott Building#1979#Janitor
+F#Patritia#Malasc#pmalasc@kettering.edu#101 Mott Building#1986#t
+F#Johnny#Dough#jdough@kettering.edu#101 Mott Building#2002#p
+F#Peach#Plummer#pplumer@kettering.edu#322 Academic Building#2010#x
+U#Mike#Smith#msmtih@kettering.edu#702039164#5#1
+S#Link#Hyrule#lhyrule@kettering.edu#322 Academic Building#1999#Technician
+G#Jack#Fly#jfly@kettering.edu#010203867#3.99#m
+G#Peter#Shuck#pshuck@kettering.edu#105839576#2.77#l

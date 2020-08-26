@@ -1,0 +1,68 @@
+
+Person Database
+Darek Konopka
+Employees sorted by duration worked in Descending Order
+
+Staff
+	First name: Maria
+	Last name: Allen
+	e-mail address: mallen@kettering.edu
+	Office: 123 Main Building
+	Hiring Year: 2016
+	Title: Registrar
+
+Faculty
+	First name: Peach
+	Last name: Plummer
+	e-mail address: pplumer@kettering.edu
+	Office: 322 Academic Building
+	Hiring Year: 2010
+	Rank: The input is invalid
+
+Faculty
+	First name: James
+	Last name: Neal
+	e-mail address: jneal@kettering.edu
+	Office: 321 Main Building
+	Hiring Year: 2005
+	Rank: associate professor
+
+Faculty
+	First name: Johnny
+	Last name: Dough
+	e-mail address: jdough@kettering.edu
+	Office: 101 Mott Building
+	Hiring Year: 2002
+	Rank: full professor
+
+Staff
+	First name: Link
+	Last name: Hyrule
+	e-mail address: lhyrule@kettering.edu
+	Office: 322 Academic Building
+	Hiring Year: 1999
+	Title: Technician
+
+Faculty
+	First name: Patritia
+	Last name: Malasc
+	e-mail address: pmalasc@kettering.edu
+	Office: 101 Mott Building
+	Hiring Year: 1986
+	Rank: assistant professor
+
+Staff
+	First name: Abby
+	Last name: Kaiser
+	e-mail address: akaiser@kettering.edu
+	Office: 321 Main Building
+	Hiring Year: 1980
+	Title: ASC Employee
+
+Staff
+	First name: Fred
+	Last name: Murcury
+	e-mail address: fmurcury@kettering.edu
+	Office: 101 Mott Building
+	Hiring Year: This person is our of the 1980-2020 range
+	Title: Janitor
