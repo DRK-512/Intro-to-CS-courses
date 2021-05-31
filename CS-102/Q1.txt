@@ -1,0 +1,6 @@
+1. 
+A normal linked list would be easier to write and 
+understand because in a circular you always have to 
+make sure you are connecting your head reference to the 
+tail, but in a normal linked list, you only need to keep 
+track of the head, because after the tail it will report null. 

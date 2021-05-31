@@ -1,0 +1,6 @@
+1. 
+A linear link list would be easier to write since, you don't
+have to wrap around the list like in a circular list. 
+in a circular list, you habe to make sure that the 
+head and tail are constantly connected which means
+it is less efficient and harder to write
