@@ -175,6 +175,8 @@ class BSTReferenceBased {
     void printPostorder() { printPostorder(root); }
     void printInorder() { printInorder(root); }
     void printPreorder() { printPreorder(root); }
+    void inOrder() { inOrder(root); }
+    void inOrderDesc() { inOrderDesc(root); }
     
    // Count the number of nodes in the tree
    int numOfNodes (int level) {
@@ -193,8 +195,26 @@ class BSTReferenceBased {
       
          numOfNodesRec(root.rightChild, level); 
          numOfNodesRec(root.leftChild, level);  
+         return level; 
       } 
    }
+   
+      // For traversing in order
+     public void inOrder(Node root){
+       if(root != null){
+         inOrder(root.leftChild);
+         System.out.print(root.key + " ");
+         inOrder(root.rightChild);
+       }
+     }
+       
+     public void inOrderDesc(Node root){
+       if(root != null){
+         inOrderDesc(root.rightChild);
+         System.out.print(root.key + " ");
+         inOrderDesc(root.leftChild);
+       }
+     }
 }
 
 
@@ -272,25 +292,24 @@ class Main{
     public static void main(String[] args)  { 
        // create a BST object
         BSTReferenceBased bst = new BSTReferenceBased(); 
-        
+        int inputArray[] = {25, 12, 8, 32, 46, 17, 15, 30, 27, 10, 11, 9 ,52, 55, 50, 39};
+
         // Add the varibles needed for each function
         int treeHeight = 0; 
         int highestNumber = 0; 
         int sum = 0; 
         
         // Unbalenced tree
-        /*
-        bst.insert(1); 
-        bst.insert(7);
-        bst.insert(2);
-        bst.insert(5);
-        bst.insert(8);
-        bst.insert(1);
-        bst.insert(6);*/
+        for(int i = 0; i < inputArray.length; i++ ) {
+            
+            bst.insert( inputArray[i] );
+         }
+
         
-        /*
+        bst.deleteKey(32); 
+
         // Print the transver orders of the trees
-        System.out.print("Preorder traversal of binary tree is: ");
+        System.out.print("\nPreorder traversal of binary tree is: ");
         bst.printPreorder();
  
         System.out.print("\nInorder traversal of binary tree is: ");
@@ -300,10 +319,10 @@ class Main{
         bst.printPostorder();
         
         // Delete an element for fun 
-        bst.deleteKey(2); 
-        */
-        // This is a balanced tree
         
+        
+        // This is a balanced tree
+        /*
         bst.insert(52);
         bst.insert(33);
         bst.insert(24);
@@ -314,7 +333,7 @@ class Main{
         bst.insert(65); 
         bst.insert(45);
         int num = bst.numOfNodes(3); 
-        System.out.println(num); 
+        System.out.println(num); */
         /*
         When created the tree should look like this: 
                             50
@@ -347,6 +366,7 @@ class Main{
          /* print the list that is created from the 
             onlyChild function; we do it this way since the
             onlyChild function is recurssive */
+            /*
           if (list.size() == 0){}
              // System.out.println(-1); // We print -1 if there is no tree; or if the only child function wasnt run
           else
@@ -355,6 +375,6 @@ class Main{
               {
                   //System.out.println(value);
               }
-          }
+          }*/ 
      } 
 }
