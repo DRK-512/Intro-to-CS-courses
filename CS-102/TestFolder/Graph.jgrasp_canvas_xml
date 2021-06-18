@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Canvas xmlns="http://www.jgrasp.org">
+  <Language>Java</Language>
+  <ShowTypes>false</ShowTypes>
+  <Version>2</Version>
+  <Grid>
+    <Snap>true</Snap>
+    <Show>false</Show>
+  </Grid>
+  <Scope id="0">
+    <Name>main</Name>
+    <Signature>([Ljava/lang/String;)V</Signature>
+    <DeclaringType>Graph</DeclaringType>
+    <Depth>0</Depth>
+  </Scope>
+  <Frame>
+    <Transparent>true</Transparent>
+    <Bounds>
+      <AutoSize>false</AutoSize>
+      <X>240</X>
+      <Y>70</Y>
+      <W>858</W>
+      <H>328</H>
+    </Bounds>
+    <PanelSize>
+      <Key>jgrasp_viewers.java__lang__Object_LinkedView0</Key>
+      <Order>4</Order>
+      <W>864</W>
+      <H>356</H>
+    </PanelSize>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local Graph` g</Expression>
+      <ViewerClass>jgrasp_viewers.java__lang__Object_LinkedView</ViewerClass>
+      <ViewerData>
+        <ViewData>
+          <Round>false</Round>
+        </ViewData>
+      </ViewerData>
+    </Viewer>
+  </Frame>
+  <Size>
+    <W>963</W>
+    <H>529</H>
+  </Size>
+  <ESize>
+    <W>963</W>
+    <H>529</H>
+  </ESize>
+</Canvas>
